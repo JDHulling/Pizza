@@ -1,2 +1,1 @@
-# Pizza
-First Bootcamp Project
+# pizza
